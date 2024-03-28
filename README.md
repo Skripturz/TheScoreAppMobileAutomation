@@ -11,7 +11,7 @@ The Android automation framework is written on TestNG framework.
 3.	The APK file is attached to '\\src\\test\\resources' with version 23.16.0
 4.  The Appium version used is 8.3.0
 5.  The selenium version used is 4.13.0
-6.  Please take note and update the MobileCapabilityTypes as needed to run the automation
+6.  Please take note and update the MobileCapabilityType as needed to run the automation
 
 # Build and Test
 
